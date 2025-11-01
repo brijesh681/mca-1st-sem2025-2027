@@ -50,6 +50,8 @@ int main (){
     x = a + d;
     printf("The sum of first and fourth numbers: %d", x);
 
+    printf("My name is Shivam Rana");
+
 
     return 0;
 }
